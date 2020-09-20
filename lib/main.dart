@@ -183,14 +183,14 @@ class IntroScreenState extends State<IntroScreen> {
     );
     slides.add(
       new Slide(
-        title: "Best school",
+        title: "School Details",
         styleTitle: TextStyle(
             color: Color(0xff3da4ab),
             fontSize: 30.0,
             fontWeight: FontWeight.bold,
             fontFamily: 'RobotoMono'),
         description:
-        "Ye indulgence unreserved connection alteration appearance",
+        "This is the description example here goes your description ,please add description as your need",
         styleDescription: TextStyle(
             color: Color(0xfffe9c8f),
             fontSize: 20.0,
