@@ -183,7 +183,7 @@ class IntroScreenState extends State<IntroScreen> {
     );
     slides.add(
       new Slide(
-        title: "School Details",
+        title: "School Details Page",
         styleTitle: TextStyle(
             color: Color(0xff3da4ab),
             fontSize: 30.0,
@@ -201,7 +201,7 @@ class IntroScreenState extends State<IntroScreen> {
     );
     slides.add(
       new Slide(
-        title: "School Shop",
+        title: "School Shop Page",
         styleTitle: TextStyle(
             color: Color(0xff3da4ab),
             fontSize: 30.0,
